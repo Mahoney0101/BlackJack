@@ -438,6 +438,7 @@ public class Gui {
     public void cardImage(JLabel label, Card card){
         ImageIcon imageIcon = new ImageIcon(new ImageIcon(card.getPath()).getImage().getScaledInstance(70, 100, Image.SCALE_DEFAULT));
         label.setIcon(imageIcon);
+        //https://stackoverflow.com/questions/12020597/java-convert-image-to-icon-imageicon
 
     }
 
