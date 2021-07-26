@@ -7,4 +7,6 @@ Updated with folder containing jar file and resources. To run game - clone repo 
 <h3>Login and Highscores</h3>
 <img src="LoginScreen.PNG">
 <h3>Game Screen</h3>
-<img src="BlackjackGameScreen.PNG">
+<img src="ScreenAces.PNG">
+<img src="ScreenBlackjack.PNG">
+<img src="ScreenBust.PNG">
